@@ -1,1 +1,0 @@
-print("YES" if int(input()) >= 12 else "NO")

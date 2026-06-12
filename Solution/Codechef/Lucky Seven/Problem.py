@@ -1,1 +1,0 @@
-print(input("")[6].lower())
